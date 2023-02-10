@@ -1,4 +1,4 @@
-#ascii_lowercase is basically a built in dictiontary where a=1
+#ascii_lowercase is basically a built in dictiontary where a=1 and so on...
 from string import ascii_lowercase as alphabet
 
 
